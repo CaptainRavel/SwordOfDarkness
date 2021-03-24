@@ -21,4 +21,5 @@ Sword of Darkness is a 2d text-based RPG game project with using Unity Game Engi
 ## Authors and License
 
 Authors: GreatSailorsTeam
+
 License: Unity Free License - to non comercial use
