@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+  <English>
+  #MenuPanel
+	<string name="EXIT_B">EXIT</string>
+	<string name="AUTOR_B">AUTORS</string>
+	<string name="OPTION_B">OPTIONS</string>
+	<string name="TUTORIAL_B">TUTORIAL</string>
+	<string name="SAVE_B">LOAD GAMR</string>
+	<string name="NEW_B">NEW GAME</string>
+	<string name="DALEJ_B">NEXT</string>
+	<string name="WROC_B">BACK</string>
+	<string name="AUTOR_N">AUTORS</string>
+	<string name="AUTOR_TXT">Programming- Rafał Makowski
+Graphics and animations - Łukasz Makowski
+Plot and lore - Rafał i Łukasz Makowscy
+Musics - Adrian von Zielger
+Portraits - isandir.com
+Sounds - soundbible.com and freesound.org
+
+and
+Unity Asset Store</string>
+	<string name="OPTION_N">OPTIONS</string>
+	<string name="GRAFIKA_N">GRAPHICS</string>
+	<string name="AUDIO_N">AUDIO</string>
+	<string name="JAKOSC_N">QUALITY</string>
+	<string name="JAKOSC_D_1">LOW</string>
+	<string name="JAKOSC_D_2">MEDIUM</string>
+	<string name="JAKOSC_D_3">HIGH</string>
+	<string name="ROZ_N">REZOLUTION</string>
+	<string name="FULLSCR_N">FULLSCREEN</string>
+	<string name="MUZYKA_N">MUSIC</string>
+	<string name="DZWIEK_N">SOUNDS</string>
+	<string name="NOTFIRSTGAME_TXT">YOU HAVE NOT ANY SAVED GAME. YOU MUST START NEW GAME.</string>
+	<string name="WERSJA_TXT">Version:</string>
+  </English>
+
+</languages>

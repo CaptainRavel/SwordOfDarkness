@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: "Sanda\u0142y pustelnika"
+  m_EditorClassIdentifier: 
+  id: e44ba421632f024409ae2402c5f9d68a
+  Ranga: 1
+  ItemName: "Sanda\u0142y pustelnika"
+  Icon: {fileID: 21300000, guid: 4144efd59884a6a40b369d72fda034f5, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 1
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 0
+  EquipmentType: 2
+  Opis: "Sanda\u0142y pustelnika - rodzaj sanda\u0142\xF3w przeznaczonych do podr\xF3\u017Cy
+    przez pustkowia i pustynie."

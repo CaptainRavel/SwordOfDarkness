@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: Buty refleksu
+  m_EditorClassIdentifier: 
+  id: 6c62f07a92264e0418096d9ba0d2307c
+  Ranga: 2
+  ItemName: Buty refleksu
+  Icon: {fileID: 21300000, guid: f25b16c7add794b4e89be33447aaf8a4, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 5
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 20
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 0
+  EquipmentType: 2
+  Opis: "Buty refleksu - s\u0105 to porz\u0105dne buty ze sk\xF3ry wzmocnione magi\u0105
+    wp\u0142ywaj\u0105c\u0105 na lepszy refleks osoby nosz\u0105cej."

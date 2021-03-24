@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: "Miecz elf\xF3w"
+  m_EditorClassIdentifier: 
+  id: 32aa0bd863062ec4bb515785c5b02d8f
+  Ranga: 3
+  ItemName: "Miecz elf\xF3w"
+  Icon: {fileID: 21300000, guid: 60f88edad3bc90c4cbaf8ef71a175be9, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 3
+  "Obra\u017CeniaMaksymalne": 18
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 24
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 17
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 9
+  EquipmentType: 3
+  Opis: "Miecz elf\xF3w - miecz d\u0142ugi wykonany z przez elf\xF3w z niezwyk\u0142\u0105
+    precyzj\u0105. Jest zakl\u0119ty by zwi\u0119ksza\u0107 zr\u0119czno\u015B\u0107
+    i refleks wojownika."

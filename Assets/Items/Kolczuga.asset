@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: Kolczuga
+  m_EditorClassIdentifier: 
+  id: 1b482377e6e07004792adb5f4054c2c7
+  Ranga: 2
+  ItemName: Kolczuga
+  Icon: {fileID: 21300000, guid: 30208610c388a494996ad610f0edc1fc, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 12
+  RefleksBonus: 0
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 0
+  EquipmentType: 1
+  Opis: "Kolczuga \u2013 rodzaj zbroi wykonanej z g\u0119stej plecionki z drobnych
+    k\xF3\u0142ek (najcz\u0119\u015Bciej stalowych)."

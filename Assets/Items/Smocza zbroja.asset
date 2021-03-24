@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: Smocza zbroja
+  m_EditorClassIdentifier: 
+  id: 146f4edb681db9145bccb32fc449a0cf
+  Ranga: 3
+  ItemName: Smocza zbroja
+  Icon: {fileID: 21300000, guid: ac234b08841de4044a592f88d7908088, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 5
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 30
+  RefleksBonus: 0
+  ZdrowieBonus: 15
+  KondycjaBonus: 5
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 0
+  EquipmentType: 1
+  Opis: "Smocza zbroja - ta wykonana z ko\u015Bci i \u0142usek smoka zbroja posiada
+    magiczne w\u0142a\u015Bciwo\u015Bci zwi\u0105zane z jej pochodzeniem. Jest tak\u017Ce
+    wytrzymalsza od zbroi wykonanych z innych materia\u0142\xF3w."

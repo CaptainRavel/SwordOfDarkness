@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: Morgensztern
+  m_EditorClassIdentifier: 
+  id: 96879adcabacf664e8b351592a3a13d5
+  Ranga: 2
+  ItemName: Morgensztern
+  Icon: {fileID: 21300000, guid: eb979bdcd9c0bfa41811e478c6e2db73, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 1
+  "Obra\u017CeniaMaksymalne": 14
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 12
+  RefleksBonus: 0
+  ZdrowieBonus: 0
+  KondycjaBonus: 6
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 0
+  EquipmentType: 3
+  Opis: "Morgensztern \u2013 rodzaj broni obuchowo-k\u0142uj\u0105cej, okuta maczuga
+    o g\u0142owicy nabitej \u017Celaznymi kolcami w kszta\u0142cie gwiazdy."

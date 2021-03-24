@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: "Paw\u0119\u017C"
+  m_EditorClassIdentifier: 
+  id: 24a3b87dd251a1f45b9d024d97e2fd70
+  Ranga: 2
+  ItemName: "Paw\u0119\u017C"
+  Icon: {fileID: 21300000, guid: 34d05aa30d282084fa4067e239c50f24, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 5
+  RefleksBonus: 0
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 20
+  KontratakProcentBonus: 0
+  EquipmentType: 4
+  Opis: "Paw\u0119\u017C - rodzaj tarczy w kszta\u0142cie czworok\u0105ta, wysoka
+    (nawet do wysoko\u015Bci ramion doros\u0142ego m\u0119\u017Cczyzny), z pionow\u0105
+    wypuk\u0142o\u015Bci\u0105 po\u015Brodku. Ci\u0119\u017Cka, wykonana z drewna
+    obitego z wierzchu blach\u0105 lub sk\xF3r\u0105, zdobiona malowid\u0142ami."

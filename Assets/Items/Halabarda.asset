@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: Halabarda
+  m_EditorClassIdentifier: 
+  id: 1fb743cc4a46daf4c8aba9b3d191292a
+  Ranga: 2
+  ItemName: Halabarda
+  Icon: {fileID: 21300000, guid: 9b470d46f4df42c49803e96adaec681c, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 2
+  "Obra\u017CeniaMaksymalne": 14
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 0
+  ZdrowieBonus: 15
+  KondycjaBonus: 0
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 8
+  EquipmentType: 3
+  Opis: "Halabarda \u2013 dwur\u0119czna bro\u0144 drzewcowa, mierz\u0105ca od 1,5m
+    do 1,8m. Sk\u0142ada si\u0119 z drzewca z g\u0142owni\u0105 \u0142\u0105cz\u0105c\u0105
+    w sobie elementy trzech broni: topora z jednej strony, haka z drugiej i w\u0142\xF3czni
+    po\u015Brodku (w postaci d\u0142ugiego grotu). Dzi\u0119ki temu by\u0142a uniwersalna,
+    mog\u0105c s\u0142u\u017Cy\u0107 zar\xF3wno do ci\u0119cia jak i k\u0142ucia."

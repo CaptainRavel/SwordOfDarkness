@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: "Tarcza krasnolud\xF3w"
+  m_EditorClassIdentifier: 
+  id: dd595fbca98fe9e44b627e645b864c96
+  Ranga: 3
+  ItemName: "Tarcza krasnolud\xF3w"
+  Icon: {fileID: 21300000, guid: ca2ed7d855913c44e88a2ccd9a6500d6, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 0
+  ZdrowieBonus: 5
+  KondycjaBonus: 10
+  GardaProcentBonus: 25
+  KontratakProcentBonus: 0
+  EquipmentType: 4
+  Opis: "Tarcza krasnolud\xF3w - tarcza o wygl\u0105dzie podobym do tarczy stalowej.
+    Wykonana jest jednak ze specjalnego stopu krasnoludzkich metali co sprawia, \u017Ce
+    jest niezwykle wytrzyma\u0142a i zwi\u0119ksza si\u0142y witalne nosz\u0105cego."

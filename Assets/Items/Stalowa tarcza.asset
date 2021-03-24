@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: Stalowa tarcza
+  m_EditorClassIdentifier: 
+  id: 3f1e4811f59904149bc93633649dc95f
+  Ranga: 2
+  ItemName: Stalowa tarcza
+  Icon: {fileID: 21300000, guid: 1f274f8330a96d440b81b9cb6770b2a8, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 4
+  RefleksBonus: 0
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 14
+  KontratakProcentBonus: 0
+  EquipmentType: 4
+  Opis: "Stalowa tarcza - typ tarczy wykonanej ze stali. Jest solidna i bardzo wytrzyma\u0142a."

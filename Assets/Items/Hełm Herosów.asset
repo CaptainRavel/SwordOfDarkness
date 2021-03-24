@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: "He\u0142m Heros\xF3w"
+  m_EditorClassIdentifier: 
+  id: 295566fa726598740a9ca2e4c2dda022
+  Ranga: 3
+  ItemName: "He\u0142m Heros\xF3w"
+  Icon: {fileID: 21300000, guid: 5c43a34aaf5811442a3197d0b97a3940, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 10
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 10
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 10
+  KontratakProcentBonus: 0
+  EquipmentType: 0
+  Opis: "'He\u0142m Heros\xF3w' - he\u0142m ten zosta\u0142 wykonany i umagiczniony
+    przez wspania\u0142ego maga Rufusa II. Przeznaczony tylko dla os\xF3b o m\u0119\u017Cnym
+    i heroicznym sercu."

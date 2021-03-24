@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: "Zbroja sk\xF3rzana"
+  m_EditorClassIdentifier: 
+  id: 36f4d3d0801c82d4ab464842d9ecc0ac
+  Ranga: 1
+  ItemName: "Zbroja sk\xF3rzana"
+  Icon: {fileID: 21300000, guid: fc8542cdc3ac66d46901a4eca96d7870, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 2
+  RefleksBonus: 0
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 0
+  EquipmentType: 1
+  Opis: "Zbroja sk\xF3rzana - rodzaj zbroi, wykonanej z grubej sztywnej sk\xF3ry.
+    Sk\xF3r\u0119 zwykle utwardzano poprzez gotowanie w wosku. Sk\xF3ra by\u0142a
+    materia\u0142em powszechnie dost\u0119pnym w przeciwie\u0144stwie do wymagaj\u0105cego
+    specjalistycznej obr\xF3bki metalu, dlatego zbroja sk\xF3rzana by\u0142a ta\u0144sza
+    i mogli sobie na ni\u0105 pozwoli\u0107 tak\u017Ce mniej zamo\u017Cni wojownicy.
+    W toku rozwoju uzbrojenia ochronnego os\u0142on\u0119 sk\xF3rzan\u0105 uzupe\u0142niano
+    p\u0142ytkami metalowymi."

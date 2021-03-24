@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: "Zardzewnia\u0142y n\xF3\u017C"
+  m_EditorClassIdentifier: 
+  id: f4ee98f6a7dff77468a616538d1b1d01
+  Ranga: 1
+  ItemName: "Zardzewnia\u0142y n\xF3\u017C"
+  Icon: {fileID: 21300000, guid: d9e60910a669ccf41800976c96607250, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 3
+  "Obra\u017CeniaMaksymalne": 6
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 0
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 5
+  KontratakProcentBonus: 0
+  EquipmentType: 3
+  Opis: "Zardzenia\u0142 n\xF3\u017C - n\xF3\u017C narz\u0119dzie sk\u0142adaj\u0105ce
+    si\u0119 z metalowego ostrza osadzonego na r\u0119koje\u015Bci drewnianej lub
+    metalowej u\u017Cywany te\u017C jako bro\u0144. Ten egzemplarz jest ju\u017C
+    jednak mocno zniszczony."

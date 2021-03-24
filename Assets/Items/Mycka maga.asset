@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: Mycka maga
+  m_EditorClassIdentifier: 
+  id: 7287fdbe2b7661d41bb74cb9b57e2184
+  Ranga: 1
+  ItemName: Mycka maga
+  Icon: {fileID: 21300000, guid: 1e16518344dcc984a819375fb6a17d71, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 0
+  "Obra\u017CeniaMaksymalne": 0
+  "Si\u0142aBonus": 0
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 0
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 2
+  EquipmentType: 0
+  Opis: "Mycka maga - jest to rodzaj lekkiej odzie\u017Cy zak\u0142adanej na g\u0142ow\u0119.
+    Z racji ma\u0142ej wytrzyma\u0142o\u015Bci u\u017Cywaj\u0105 go g\u0142\xF3wnie
+    magowie. Ten egzemplarz jest jednak zakl\u0119ty zwi\u0119ksza niekt\xF3re umiej\u0119tno\u015Bci
+    nosz\u0105cego."

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: Smoczy miecz
+  m_EditorClassIdentifier: 
+  id: 1fe98760aaefea5449c0857e557de23b
+  Ranga: 3
+  ItemName: Smoczy miecz
+  Icon: {fileID: 21300000, guid: eb7fa8bdff819be4bab19774d643a100, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 3
+  "Obra\u017CeniaMaksymalne": 21
+  "Si\u0142aBonus": 24
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 18
+  RefleksBonus: 0
+  ZdrowieBonus: 0
+  KondycjaBonus: 0
+  GardaProcentBonus: 12
+  KontratakProcentBonus: 0
+  EquipmentType: 3
+  Opis: "Smoczy miecz - ten wykonany z ko\u015Bci smoka miecz posiada magiczne w\u0142a\u015Bciwo\u015Bci
+    zwi\u0105zane z jego pochodzeniam. Jest tak\u017Ce ostrzejszy i wytrzymalszy
+    od mieczy ze standardowych materia\u0142\xF3w."

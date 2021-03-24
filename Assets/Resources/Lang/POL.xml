@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+  <Polski>
+  #MenuPanel
+	<string name="EXIT_B">WYJŚCIE</string>
+	<string name="AUTOR_B">AUTORZY</string>
+	<string name="OPTION_B">OPCJE</string>
+	<string name="TUTORIAL_B">SAMOUCZEK</string>
+	<string name="SAVE_B">WCZYTAJ GRĘ</string>
+	<string name="NEW_B">NOWA GRA</string>
+	<string name="DALEJ_B">DALEJ</string>
+	<string name="WROC_B">WRÓC</string>
+	<string name="AUTOR_N">AUTORZY</string>
+	<string name="AUTOR_TXT">Programowanie i implementacja- Rafał Makowski
+Grafika i animacje - Łukasz Makowski
+Fabuła i lore - Rafał i Łukasz Makowscy
+Muzyka - Adrian von Zielger
+Portrety - isandir.com
+Dźwięki - soundbible.com and freesound.org
+
+oraz
+Unity Asset Store</string>
+	<string name="OPTION_N">OPCJE</string>
+	<string name="GRAFIKA_N">GRAFIKA</string>
+	<string name="AUDIO_N">AUDIO</string>
+	<string name="JAKOSC_N">JAKOŚĆ</string>
+	<string name="JAKOSC_D_1">NISKA</string>
+	<string name="JAKOSC_D_2">ŚREDNIA</string>
+	<string name="JAKOSC_D_3">WYSOKA</string>
+	<string name="ROZ_N">ROZDZIELCZOŚĆ</string>
+	<string name="FULLSCR_N">PEŁNY EKRAN</string>
+	<string name="MUZYKA_N">MUZYKA</string>
+	<string name="DZWIEK_N">DŹWIĘKI</string>
+	<string name="NOTFIRSTGAME_TXT">NIE MASZ ŻADNEJ ZAPISANEJ GRY, MUSISZ ROZPOCZĄĆ GRĘ OD POCZĄTKU</string>
+	<string name="WERSJA_TXT">Wersja:</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+	<string name="">...</string>
+  </Polski>
+
+</languages>

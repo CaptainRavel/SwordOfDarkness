@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2fd5e9c440014d9dd37179de0565c, type: 3}
+  m_Name: "Miecz Ciemno\u015Bci"
+  m_EditorClassIdentifier: 
+  id: 11e6233ce6de35249ac099c000dc3277
+  Ranga: 4
+  ItemName: "Miecz Ciemno\u015Bci"
+  Icon: {fileID: 21300000, guid: 1373d6042ddbda345a27c89755e90e39, type: 3}
+  MaximumStacks: 1
+  "Obra\u017CeniaMinimalne": 5
+  "Obra\u017CeniaMaksymalne": 30
+  "Si\u0142aBonus": 30
+  "Zr\u0119czno\u015B\u0107Bonus": 0
+  "Wytrzyma\u0142o\u015B\u0107Bonus": 0
+  RefleksBonus: 0
+  ZdrowieBonus: 20
+  KondycjaBonus: 20
+  GardaProcentBonus: 0
+  KontratakProcentBonus: 25
+  EquipmentType: 3
+  Opis: "Miecz Ciemno\u015Bci - ten pot\u0119\u017Cny artefakt by\u0142 kiedy\u015B
+    w\u0142asno\u015Bci\u0105 samego Awatara Zniszczenia Velesa. W niepowo\u0142anych
+    r\u0119kach jest \u015Bmiertelnie niebezpieczny. Odebrany Awatarowi przez armi\u0119
+    Rycerzy \u015Awiat\u0142a zosta\u0142 umieszczony w specjalnie zaprojektowanej
+    \u015Bwi\u0105tyni, gdzie strzegli go elitarni stra\u017Cnicy dop\xF3ki nie zosta\u0142
+    wykradziony..."
